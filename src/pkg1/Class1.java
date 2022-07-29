@@ -7,7 +7,7 @@ public class Class1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int [] x = {10,20,30,40,50};
+		int [] x = {10,20,30};
 		
 		//a[0]=10;
 		//a[1]=20;
