@@ -26,7 +26,7 @@ public class Class1 {
 		x[0]=x[y-1];
 		System.out.println(Arrays.toString(x));
 		
-		x[d-1]=z;
+		x[y-1]=z;
 	System.out.println(Arrays.toString(x));
 
 	}
