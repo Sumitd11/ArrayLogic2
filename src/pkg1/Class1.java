@@ -27,7 +27,7 @@ public class Class1 {
 		System.out.println(Arrays.toString(c));
 		
 		c[d-1]=p;
-	System.out.println(Arrays.toString(c));
+	System.out.println(Arrays.toString(c));  //git tst2 check
 
 	}
 
