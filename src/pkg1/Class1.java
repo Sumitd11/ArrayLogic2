@@ -21,7 +21,7 @@ public class Class1 {
 		int z=x[0]; //temporary variable
 		x[0]=x[y-1];
 		System.out.println(Arrays.toString(x));
-		
+    
 		x[y-1]=z;
 	System.out.println(Arrays.toString(x));
 
